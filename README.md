@@ -8,4 +8,6 @@ calculate intersection of two col, for instance, A file: a col of transcrip name
 ### transformMSTRG2ENSBL.py
 Stringtie style transcript name to Esembl style name (if exist in Esemble).
 ### union2Cols.py
-calculate union of two col, for instance, A file: a col of transcrip name; B: a col of transcript.
+Calculate union of two col, for instance, A file: a col of transcrip name; B: a col of transcript.
+### hopmapCluster.py
+Cluster samples based on defferentially express transcripts FPKM.
